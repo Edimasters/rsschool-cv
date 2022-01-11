@@ -24,3 +24,23 @@ Now I'm passionately interested in improving my skills as a frontend developer a
 + JavaScript
 + Figma
 + Git
+
+### Code
+```
+public class Multiply {
+    public static Double multiply(Double a, Double b) {
+        return a * b;
+    }
+}
+```
+### Projects
+[CV1 Project](https://github.com/Edimasters/rsschool-cv)
+
+### Education
+National Rsearch University - Higher School of Economics - Perm, Russia
+Bachelor's degree in Economics (2019)
+
+### Languages
++ Russian - Native
++ Armenian - Native
++ English - Advanced
