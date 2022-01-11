@@ -1,5 +1,7 @@
 # Edgar Dzhagarian
 
+![avatar](https://avatars.githubusercontent.com/u/33372955?v=4)
+
 ### About Me
 My name is Edgar. I work as a marketing analyst in an IT company. I have always been interested in web development and in IT in general but trusted a stereotype that only certain types of people may achieve great goals in the industry. Luckily, once I tried to dive into coding, I figured out that it is possible to learn if you take your time and like it.  
 
