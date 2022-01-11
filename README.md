@@ -1,1 +1,1 @@
-https://edimasters.github.io/rsschool-cv/cv
+https://edimasters.github.io/rsschool-cv/
