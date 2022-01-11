@@ -10,14 +10,23 @@ Now I'm passionately interested in improving my skills as a frontend developer a
 ### Contacts
 
 + **Location**
+
     Krasnodar, Russian Federation
+
 + **Phone**
+
     +79189575918
+
 + **E-mail**
+
     eedzhagaryan@gmail.com
+
 + **Telegram**
+
     [Edgar](https://t.me/e_d_7)
+
 + **GitHub**
+
     [Edimasters](https://github.com/Edimasters)
     
 ### Skills
