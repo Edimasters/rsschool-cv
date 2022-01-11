@@ -1,7 +1,8 @@
 # Edgar Dzhagarian
 
 ### About Me
-My name is Edgar. I work as a marketing analyst in an IT company. I have always been interested in web development and in IT in general but trusted a stereotype that only certain types of people may achieve great goals in the industry. Luckily, once I tried to dive into coding, I figured out that it is possible to learn if you take your time and like it. 
+My name is Edgar. I work as a marketing analyst in an IT company. I have always been interested in web development and in IT in general but trusted a stereotype that only certain types of people may achieve great goals in the industry. Luckily, once I tried to dive into coding, I figured out that it is possible to learn if you take your time and like it.  
+
 Now I'm passionately interested in improving my skills as a frontend developer and can't wait to start a career in this field.
 
 ### Contacts
@@ -37,7 +38,8 @@ public class Multiply {
 [CV1 Project](https://github.com/Edimasters/rsschool-cv)
 
 ### Education
-National Rsearch University - Higher School of Economics - Perm, Russia
+National Research University - Higher School of Economics - Perm, Russia  
+
 Bachelor's degree in Economics (2019)
 
 ### Languages
